@@ -1,5 +1,4 @@
 const { expect } = require("chai")
-const { artifacts } = require("hardhat")
 
 describe("Calculator add", function () {
 	it("Should return the addition between nb1 + nb2", async function () {
